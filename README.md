@@ -4,6 +4,11 @@ A simple bot that scans attachments and links that are sent to a discord server/
 ## Why make this project?
 This project is being made, since the past year increasing cases of scam, phishing, and malware uploading are being done in discord servers. So, for mitigating the possible damages from these, I came up with this project.
 
+## Installation and Setup
+For installing the required modules: `pip install -r requirements.txt`
+
+For running the bot locally: `python3 bot.py <bot_token> [command_prefix]`
+
 ## Bot Commands
 
 ## Features
